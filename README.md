@@ -1,2 +1,2 @@
-# pakiety_ptojekt
+# pakiety_projekt
 Projekt Pakiety Matematyczne Julia
